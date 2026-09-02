@@ -1,13 +1,13 @@
-# Front-End — Aplicação Mobile
+# Front-end — Aplicação Mobile
 
 > _[A definir]_ Breve descrição do projeto: contexto, objetivo do aplicativo.
 
 ## Tecnologias
 
-- React Native
-- Expo
-- EAS Build (geração de APK/AAB de produção)
-- TypeScript
+- React Native 0.86
+- Expo SDK 57
+- EAS Build (geração de APK/AAB de produção) 
+- TypeScript 5
 
 ## Base
 
