@@ -58,7 +58,18 @@ _[A definir]_ Organização das pastas do projeto (componentes, páginas/telas, 
 
 ## Rotas
 
-_[A definir]_ Mapeamento das rotas da aplicação (ex: abertura de chamado, histórico de solicitações, detalhe do chamado).
+| Rota                          | Tela                                  |
+| ------------------------------ | -------------------------------------- |
+| `/login`                       | Login                                  |
+| `/`                             | Home (vazia)                           |
+| `/chamados`                     | Home com chamados listados             |
+| `/chamados/:id`                 | Detalhes do chamado                    |
+| `/formulario/ocorrencia`        | Formulário — Passo 1 (ocorrência)      |
+| `/formulario/endereco`          | Formulário — Passo 2 (endereço/mapa)   |
+| `/formulario/fotos`             | Formulário — Passo 3 (anexar fotos)    |
+| `/formulario/confirmacao`       | Formulário — Passo 4 (confirmação)     |
+| `/formulario/revisao`           | Revisão antes de enviar                |
+| `/formulario/sucesso`           | Confirmação de chamado aberto          |
 
 ## Integração com Back-end
 
